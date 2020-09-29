@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="utf-8">
+    <meta name="keywords" content="Навык, старание, упорство">
+    <meta name="description" content="Простой крестьянин, выбрал тяжелый и долгий путь Шиноби">
+    <title>Путь Шиноби ищет тебя!</title>
+  </head>
+  
+  <body>
+    <header class="header">
+      <h1>Путь Шиноби ищет тебя!</h1>
+    </header>
+    
+    <main>
+      <nav>
+        Взгляд на пройденный путь
+      </nav>
+      
+      <section>
+        <p>Путь Шиноби-некогда не кончается. Раз встав на тропу, сойти с нее не получится.</p>
+        <p>Иди вперед, и не оборачивайся! Дороги назад, больше нет! Вернуться, значит умереть!</p>
+      </section>
+      
+      <section>
+      Навыки юного Шиноби
+      </section>
+    </main>
+    
+    <footer>
+    Где меня можно найти.
+    </footer>
+  </body>
+</html>
