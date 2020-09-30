@@ -8,8 +8,13 @@ body {
   color: #fff;
   }
 .stih {
+text-align: center;
 font-family: fantasy, "Times New Roman";
 font-size: 25px;
 color: #ed5595;
 font-weight: 500;
+}
+
+h1 {
+text-align: center;
 }
