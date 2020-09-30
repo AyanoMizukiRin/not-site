@@ -4,11 +4,11 @@ body {
   line-height: 25px:
   font-size: 15px;
   font-family: "Times", "Times New Roman", serif;
-  color: #000;
+  color: #fff;
   }
-pre {
+.stih {
 font-family: fantasy, "Times New Roman";
 font-size: 25px;
 color: #ed5595;
-font-weight: bold;
+font-weight: 500;
 }
