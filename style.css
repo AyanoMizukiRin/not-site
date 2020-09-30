@@ -4,11 +4,11 @@ body {
   line-height: 25px:
   font-size: 15px;
   font-family: "Times", "Times New Roman", serif;
-  color: black;
+  color: #000;
   }
 pre {
-font-family: "Trattatello", fantasy;
+font-family: fantasy, "Times New Roman";
 font-size: 25px;
-color: red;
+color: #ed5595;
 font-weight: bold;
 }
