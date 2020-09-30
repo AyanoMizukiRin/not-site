@@ -3,11 +3,12 @@ body {
   margin: 20px;
   line-height: 25px:
   font-size: 15px;
-  font-family: "Arial", serif;
+  font-family: "Times", "Times New Roman", serif;
   color: white;
   }
-p {
-font-size: 35px;
+pre {
+font-family: "Trattatello", fantasy;
+font-size: 25px;
 color: red;
 font-weight: bold;
 }
